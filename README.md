@@ -134,8 +134,8 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
 
 - `start`: Executa a aplicação em `localhost:3000`
 - `build`: Cria a Build do projeto
-- `test`: Executa **Jest** para testar todos os componentes e páginas
-- `eject`: Executa **Jest** em watch mode
+<!-- - `test`: Executa **Jest** para testar todos os componentes e páginas
+- `eject`: Executa **Jest** em watch mode -->
 - `server`: Executa o servidor fake `localhost:3333`
 
 ## 🚀 Como rodar este projeto
@@ -167,13 +167,13 @@ $ yarn start
 # O servidor inciará na porta:3000 - acesse http://localhost:3000
 
 ```
-
+<!-- 
 ### 💾 Comandos Úteis
 
 ```bash
 #Rodar os testes
 $ yarn test
-```
+``` -->
 <!--
 ### 📁 Configuração .ENV
 
