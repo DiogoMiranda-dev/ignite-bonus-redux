@@ -146,10 +146,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DiogoMiranda-dev/ignite-Chapter2-desafio-two.git
+$ git clone https://github.com/DiogoMiranda-dev/ignite-bonus-redux.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ignite-Chapter2-desafio-two
+$ cd ignite-bonus-redux
 ```
 
 ### 🎲 Rodando a Aplicação
